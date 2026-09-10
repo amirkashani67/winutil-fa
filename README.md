@@ -34,13 +34,20 @@ Presetهای اصلی شامل `Standard`، `Minimal` و `Advanced` هستند.
 
 ## فهرست راهنما
 
+### آموزش و استفاده
+
 - [راهنمای جامع](docs/guide-fa.md)
+- [Applications — مدیریت برنامه‌ها](docs/applications-fa.md)
 - [Tweaks و توضیح گزینه‌ها](docs/tweaks-fa.md)
 - [Config، Features و Fixes](docs/config-fa.md)
 - [Windows Update](docs/updates-fa.md)
 - [Win11 Creator](docs/win11-creator-fa.md)
 - [Automation و Presetها](docs/automation-fa.md)
 - [FAQ، خطاهای متداول و نکات ایمنی](docs/faq-fa.md)
+
+### برای توسعه‌دهندگان
+
+- [ساختار فنی پروژه](docs/architecture-fa.md)
 
 ## هشدار مهم
 
